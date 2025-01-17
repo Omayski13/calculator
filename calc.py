@@ -35,4 +35,4 @@
 # -
 # -
 # -
-# -
+# - change from 15 kinta
